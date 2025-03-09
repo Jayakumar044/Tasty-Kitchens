@@ -1,5 +1,28 @@
 ## **Tasty Kitchens - Food Ordering App**
 
+## Project Deployment Link: 
+
+https://jayakumartastyk.ccbp.tech
+
+## **User Login Credentials**
+
+## We Can Use Any Username, Password in the given Lists.
+
+ username: rahul
+ password: rahul@2021
+
+ username: kapil
+ password: moon$008
+
+ username: saira
+ password: princess@9
+
+ username: aakash
+ password: sky@007
+
+ username: advika
+ password: world@5
+
 ## Project Overview
 
 Tasty Kitchens is a full-stack food ordering application that allows users to browse restaurants, view menus, add items to their cart, and place orders. The app provides a seamless user experience with features like restaurant filtering, sorting, and a responsive design for both mobile and desktop views. The project is built using React for the frontend, with state management handled through React's built-in state and context APIs. The app integrates with a backend API to fetch restaurant data, menu items, and user ratings.
